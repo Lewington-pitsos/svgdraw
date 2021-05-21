@@ -1,0 +1,1 @@
+python recolor.py outfiles/ "#808080" "#556b2f" "#a52a2a" "#483d8b" "#9400d3" "#ff1493" "#b8860b" "#bdb76b" "#7b68ee" "#4682b4" "#d8bfd8" "#ff0000" "#ff8c00" "#ffff00" "#40e0d0" "#adff2f" "#ff6347" "#ff00ff" "#1e90ff" "#db7093" "#87ceeb" "#7b68ee" "#ffa07a" "#ee82ee"
